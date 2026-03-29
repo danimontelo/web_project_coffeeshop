@@ -126,18 +126,18 @@
   margin-top: auto;
 }
 
-.hfooter__columns {
+.footer__columns {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   width: 100%;
 }
 
-.hfooter__column_content_hours {
+.footer__column_content_hours {
   margin-bottom: 40px;
 }
 
-.hfooter__list {
+.footer__list {
   list-style-type: none;
   padding: 0;
   font-family:
@@ -147,7 +147,7 @@
   color: #838383;
 }
 
-.hfooter__column_address {
+.footer__column_address {
   margin-bottom: 40px;
   margin-right: 80px;
 }
