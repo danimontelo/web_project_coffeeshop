@@ -247,7 +247,9 @@
   line-height: 52px;
   color: #000000;
   text-align: center;
-  margin: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
 }
 
 .reservation__form {
