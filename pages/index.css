@@ -247,10 +247,11 @@
   line-height: 52px;
   color: #000000;
   text-align: center;
+  margin: 0 0 80px;
 }
 
 .reservation__form {
-  margin-top: 80px;
+  margin: 0;
 }
 
 .form {
